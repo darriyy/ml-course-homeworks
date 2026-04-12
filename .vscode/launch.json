@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/darriyy/study/ml_course/ml-course-homeworks/hw08_svm",
+      "program": "/Users/darriyy/study/ml_course/ml-course-homeworks/hw08_svm/build/Debug/outDebug"
+    }
+  ]
+}
