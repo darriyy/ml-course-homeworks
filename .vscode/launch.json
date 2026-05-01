@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/darriyy/study/ml_course/ml-course-homeworks/hw08_svm",
-      "program": "/Users/darriyy/study/ml_course/ml-course-homeworks/hw08_svm/build/Debug/outDebug"
+      "cwd": "/Users/darriyy/study/ml_course/ml-course-homeworks/hw11_hp",
+      "program": "/Users/darriyy/study/ml_course/ml-course-homeworks/hw11_hp/build/Debug/outDebug"
     }
   ]
 }
